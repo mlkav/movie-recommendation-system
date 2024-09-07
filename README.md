@@ -1,3 +1,9 @@
+*Created: 27/08/2024*
+
+[![Open Notebook](https://img.shields.io/badge/Open_Notebook!-blue?logo=jupyter)](/movie-recommendation-system/notebook.html)
+
+---
+
 # Movie Recommendation System
 
 ## Project Overview
