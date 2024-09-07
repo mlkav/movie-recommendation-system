@@ -99,7 +99,7 @@ Memiliki 4 kolom dan data sebanyak 465.564 baris. Tidak ditemukan data duplicate
 
 - Trend Number of Ratings Based on Time
 
-  ![Trend Number of Ratings Based on Time](https://github.com/user-attachments/assets/9fa17222-4bc1-4eb7-ba69-4c6cae062f9a)
+  <!-- ![Trend Number of Ratings Based on Time](https://github.com/user-attachments/assets/9fa17222-4bc1-4eb7-ba69-4c6cae062f9a) -->
   <img width="400" alt="Trend Number of Ratings Based on Time" src="https://github.com/user-attachments/assets/9fa17222-4bc1-4eb7-ba69-4c6cae062f9a">
 
   Pemberian rating terbanyak terjadi di tahun 2000 mencapai lebih dari 400.000 rating. Seiring bejalannya waktu mulai dari tahun 2005 pengguna mulai mengalami penurunan dalam pemberian rating.
