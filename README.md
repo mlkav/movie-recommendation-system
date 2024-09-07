@@ -310,7 +310,7 @@ Memiliki 4 kolom dan data sebanyak 465.564 baris. Tidak ditemukan data duplicate
 
 - Menggabungkan kedua strategi ini memungkinkan kita untuk mengembangkan sistem rekomendasi yang lebih andal dan serbaguna. Content-Based Filtering berfokus pada rekomendasi yang didasarkan pada karakteristik internal dari item itu sendiri, sedangkan Collaborative Filtering lebih efektif dalam mengidentifikasi pola preferensi pengguna melalui analisis data interaksi yang ada. Dengan memahami manfaat dan keterbatasan dari masing-masing metode, kita dapat memilih pendekatan yang paling cocok untuk memenuhi kebutuhan dan konteks khusus dari sistem rekomendasi yang dikembangkan. Memanfaatkan kedua metode ini secara bersamaan dapat meningkatkan akurasi dan relevansi rekomendasi, sehingga menawarkan pengalaman yang lebih memuaskan bagi pengguna.
 
-## Reference
+### Reference
 
 [^1]: Meel, P., et al. "Movie Recommendation Using Content-Based and Collaborative Filtering". 2020. SpringerLink. [Link Available](https://link.springer.com/chapter/10.1007/978-981-15-5113-0_22)
 
