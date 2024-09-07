@@ -173,8 +173,8 @@ Memiliki 4 kolom dan data sebanyak 465.564 baris. Tidak ditemukan data duplicate
     
     Lihat hasil yang direkomendasikan berikut:
 
-    ![Rekomendasi Content Based Filtering](https://github.com/user-attachments/assets/e2d1c525-7bdd-45a4-b306-f0d503cd6669)
-    <!-- <img width="500" alt="image" src="https://github.com/user-attachments/assets/838052da-6e27-4b4d-a78e-bb074422344f"> -->
+    <!-- ![Rekomendasi Content Based Filtering](https://github.com/user-attachments/assets/e2d1c525-7bdd-45a4-b306-f0d503cd6669) -->
+    <img width="450" alt="image" src="https://github.com/user-attachments/assets/838052da-6e27-4b4d-a78e-bb074422344f">
 
       **Kelebihan Cosine Similarity:**
 
@@ -200,8 +200,8 @@ Memiliki 4 kolom dan data sebanyak 465.564 baris. Tidak ditemukan data duplicate
 
       Lihat hasil yang direkomendasikan berikut:
 
-      ![Rekomendasi Collaborative Filtering](https://github.com/user-attachments/assets/f3079d1c-838e-475d-825c-299e6d20eb4b)
-      <!-- <img width="262" alt="image" src="https://github.com/user-attachments/assets/f3079d1c-838e-475d-825c-299e6d20eb4b"> -->
+      <!-- ![Rekomendasi Collaborative Filtering](https://github.com/user-attachments/assets/f3079d1c-838e-475d-825c-299e6d20eb4b) -->
+      <img width="450" alt="image" src="https://github.com/user-attachments/assets/f3079d1c-838e-475d-825c-299e6d20eb4b">
       
       **Kelebihan SVD:**
       
