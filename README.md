@@ -57,6 +57,7 @@ Namun, pada proyek ini hanya 3 file dataset yang akan digunakan, yaitu:
 <!-- ### Variabel-variabel yang terdapat dalam dataset: -->
 
 **1. movie.csv:**
+
 | #   | Column  | Non-Null Count | Dtype  | Description        |
 | --- | ------- | -------------- | ------ |-------------------|
 | 0   | movieId | 27278 non-null | int64  | ID film.           |
@@ -78,6 +79,7 @@ Memiliki 3 kolom dan data sebanyak 27.278 untuk masing-masing kolom. Tidak terda
 Memiliki 4 kolom dan data sebanyak 465.564 baris. Tidak ditemukan data duplicate, namun ditemukan adanya missing value pada data kolom tag sebanyak 16 baris data.
 
 **3. rating.csv:**
+
 | #   | Column    | Non-Null Count |Dtype   | Description                                      |
 | --- | --------- | -------------- |------- | ------------------------------------------------ |
 | 0   | userId    | 20000263 non-null |int64   | ID pengguna yang memberikan rating.              |
@@ -310,7 +312,7 @@ Memiliki 4 kolom dan data sebanyak 465.564 baris. Tidak ditemukan data duplicate
 
 - Menggabungkan kedua strategi ini memungkinkan kita untuk mengembangkan sistem rekomendasi yang lebih andal dan serbaguna. Content-Based Filtering berfokus pada rekomendasi yang didasarkan pada karakteristik internal dari item itu sendiri, sedangkan Collaborative Filtering lebih efektif dalam mengidentifikasi pola preferensi pengguna melalui analisis data interaksi yang ada. Dengan memahami manfaat dan keterbatasan dari masing-masing metode, kita dapat memilih pendekatan yang paling cocok untuk memenuhi kebutuhan dan konteks khusus dari sistem rekomendasi yang dikembangkan. Memanfaatkan kedua metode ini secara bersamaan dapat meningkatkan akurasi dan relevansi rekomendasi, sehingga menawarkan pengalaman yang lebih memuaskan bagi pengguna.
 
-### Reference
+### Reference:
 
 [^1]: Meel, P., et al. "Movie Recommendation Using Content-Based and Collaborative Filtering". 2020. SpringerLink. [Link Available](https://link.springer.com/chapter/10.1007/978-981-15-5113-0_22)
 
