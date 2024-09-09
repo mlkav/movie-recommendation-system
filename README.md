@@ -248,6 +248,7 @@ Memiliki 4 kolom dan data sebanyak 465.564 baris. Tidak ditemukan data duplicate
   -nPerhitungan: Precision dihitung dengan membagi jumlah TP dengan jumlah total item yang direkomendasikan (TP + FP). Hasilnya menunjukkan proporsi rekomendasi yang benar-benar relevan.
 
    **Hasil:**
+   
   | **Precission** |
   |----------|
   | 1.0    |
