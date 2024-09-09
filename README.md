@@ -10,7 +10,9 @@
 ___
 
 
-# MovieLens Recommendation System
+# Movie Recommendation System
+
+![Movie Recommendation System](https://github.com/user-attachments/assets/f2c1fb03-6a0f-442b-b18a-512059c5c7d8)
 
 ## Project Overview
 
