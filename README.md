@@ -65,6 +65,7 @@ Namun, pada proyek ini hanya 3 file dataset yang akan digunakan, yaitu:
 <!-- ### Variabel-variabel yang terdapat dalam dataset: -->
 
 **1. movie.csv:**
+
 | #   | Column  | Non-Null Count | Dtype  | Description        |
 | --- | ------- | -------------- | ------ |-------------------|
 | 0   | movieId | 27278 non-null | int64  | ID film.           |
