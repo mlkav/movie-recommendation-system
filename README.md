@@ -298,6 +298,7 @@ Memiliki 4 kolom dan data sebanyak 465.564 baris. Tidak ditemukan data duplicate
   - Pengaruh kesalahan: RMSE memberikan bobot lebih besar pada kesalahan yang lebih besar karena kesalahan dikuadratkan. Ini berarti bahwa kesalahan akan mempengaruhi RMSE lebih signifikan daripada kesalahan kecil.
 
   **Hasil:**
+  
   | **RMSE** |
   |----------|
   | 0.288    |
